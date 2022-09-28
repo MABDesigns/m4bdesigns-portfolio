@@ -126,7 +126,7 @@ Looking to further enhance framework skills as the future full stack developer.
 								</p>
 							</div>
 							<div class="bts">
-								<a href="#" class="btn extra">Download Resume</a>
+								<a href="http://m4bdesigns.xyz/Mostepha CV English.pdf" class="btn extra">Download Resume</a>
 							</div>
 						</div>
 					</div>
@@ -144,42 +144,36 @@ Looking to further enhance framework skills as the future full stack developer.
 							<div class="service-item">
 								<div class="circle"><i class="icon ion ion-ios-browsers-outline"></i></div>
 								<div class="name">UI/UX Design</div>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
 							</div>
 						</div>
 						<div class="col col-m-12 col-t-6 col-d-4">
 							<div class="service-item">
 								<div class="circle"><i class="icon ion ion-ios-lightbulb-outline"></i></div>
 								<div class="name">Brand Identity</div>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
 							</div>
 						</div>
 						<div class="col col-m-12 col-t-6 col-d-4">
 							<div class="service-item">
 								<div class="circle"><i class="icon ion ion-ios-color-wand-outline"></i></div>
 								<div class="name">Web Design</div>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
 							</div>
 						</div>
 						<div class="col col-m-12 col-t-6 col-d-4">
 							<div class="service-item">
 								<div class="circle"><i class="icon ion ion-social-android-outline"></i></div>
 								<div class="name">Mobile Apps</div>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
 							</div>
 						</div>
 						<div class="col col-m-12 col-t-6 col-d-4">
 							<div class="service-item">
 								<div class="circle"><i class="icon ion ion-ios-analytics-outline"></i></div>
 								<div class="name">Analytics</div>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
 							</div>
 						</div>
 						<div class="col col-m-12 col-t-6 col-d-4">
 							<div class="service-item">
 								<div class="circle"><i class="icon ion ion-ios-camera-outline"></i></div>
 								<div class="name">Apps</div>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
 							</div>
 						</div>
 					</div>
